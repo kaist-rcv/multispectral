@@ -1,5 +1,5 @@
 
-### TEN
+## TEN
 
 Thermal Image Enhancement using Convolution Neural Network, IROS2016
 - 1st place in NVidia Deep Learning Contest 2016
