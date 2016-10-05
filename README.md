@@ -4,6 +4,6 @@
 [Project Page] https://sites.google.com/site/ykchoicv/multispectral
 
 [![Campus](https://github.com/kaist-rcv/multispectral/blob/master/capture1.png)](https://youtu.be/WPjacBXYM_w)
-[![Residential](https://multispectral.kaist.ac.kr/ykchoi/capture2.PNG)](https://youtu.be/vXA5Wm9twCA)
-[![Road](https://multispectral.kaist.ac.kr/ykchoi/capture3.PNG)](https://youtu.be/NEJa0_KuPpY)
-[![Suburb](https://multispectral.kaist.ac.kr/ykchoi/capture4.PNG)](https://youtu.be/9CYuuitYZ8I)
+[![Residential](https://github.com/kaist-rcv/multispectral/blob/master/capture2.PNG)](https://youtu.be/vXA5Wm9twCA)
+[![Road](https://github.com/kaist-rcv/multispectral/blob/master/capture3.PNG)](https://youtu.be/NEJa0_KuPpY)
+[![Suburb](https://github.com/kaist-rcv/multispectral/blob/master/capture4.PNG)](https://youtu.be/9CYuuitYZ8I)
