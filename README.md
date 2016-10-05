@@ -5,6 +5,12 @@ Thermal Image Enhancement using Convolution Neural Network, IROS2016
 - 1st place in NVidia Deep Learning Contest 2016
 - Patent Pending* in Korea (10-2016-0100058)
 
+## Co-worker
+[Yukyung Choi](https://github.com/unizard)
+[Soonmin Hwang](https://github.com/SoonminHwang)
+[Namil Kim](https://github.com/nlkim0817)
+[Jongchan Park](https://github.com/Jongchan)
+[In So Kweon](https://rcv.kaist.ac.kr)
 
 ## Thermal Enhancement Network: Videos 
 
