@@ -1,11 +1,11 @@
 
-## [Thermal Enlargement]
+## Thermal Enlargement
 
-[Thermal Image Enhancement using Convolution Neural Network, IROS2016](https://sites.google.com/site/ykchoicv/ten) 
-- [paper download](https://www.dropbox.com/s/utazd1mj22r3w8y/IROS2016_TEN_Final_High.pdf?dl=0)
+- [Thermal Image Enhancement using Convolution Neural Network, IROS2016](https://sites.google.com/site/ykchoicv/ten), 
+- [Paper-download](https://www.dropbox.com/s/utazd1mj22r3w8y/IROS2016_TEN_Final_High.pdf?dl=0)
 - 1st place in NVidia Deep Learning Contest 2016
 
-## [Detail Enhancement]()
+## Detail Enhancement
 [A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network](https://sites.google.com/site/ykchoicv/tenr)
 - [View-Results](http://multispectral.kaist.ac.kr/TENR/show-RGBT-67-test-result.html)
 - Patent Pending* in Korea (10-2016-0100058)
