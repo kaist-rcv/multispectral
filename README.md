@@ -1,6 +1,8 @@
 
 ## Thermal Enlargement
 
+"Let's scroll down and look at the screen."
+
 [Thermal Image Enhancement using Convolution Neural Network, IROS2016](https://sites.google.com/site/ykchoicv/ten), 
 - [Paper-download](https://www.dropbox.com/s/utazd1mj22r3w8y/IROS2016_TEN_Final_High.pdf?dl=0)
 - 1st place in NVidia Deep Learning Contest 2016
