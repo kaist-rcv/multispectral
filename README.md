@@ -10,6 +10,7 @@
 ## Detail Enhancement
 [A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network](https://sites.google.com/site/ykchoicv/tenr)
 - [View-Results](http://multispectral.kaist.ac.kr/TENR/show-RGBT-67-test-result.html)
+- Bronze price in [KINPEX 2016](http://www.kinpex.org/).
 - Patent Pending* in Korea (10-2016-0100058)
 
 ## Co-worker
